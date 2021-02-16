@@ -1,0 +1,5 @@
+2020-12-23T12:26:28.360853+00:00 app[web.1]: class: "Baileys"
+2020-12-23T12:26:32.881809+00:00 app[web.1]: [12:26] 6285774148323|6285774148323 => !menu
+2020-12-23T12:27:59.695293+00:00 heroku[web.1]: State changed from up to down
+2020-12-23T12:28:00.731510+00:00 heroku[web.1]: Stopping all processes with SIGTERM
+2020-12-23T12:28:00.817913+00:00 heroku[web.1]: Process exited with status 143

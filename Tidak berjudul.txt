@@ -1,0 +1,22 @@
+ProductSnapshot {
+  productImage: ImageMessage {
+    interactiveAnnotations: [],
+    scanLengths: [],
+    url: 'https://mmg.whatsapp.net/d/f/AnTpcd-wd83Pz5US-ZhxVAn9ZJFhn3lPuELCElRSG91S.enc',
+    mimetype: 'image/jpeg',
+    fileSha256: <Buffer f1 ac 3a 5a 50 2c 6d 3e 98 39 20 30 b4 68 58 96 bb 46 0e 86 dc 35 9d 26 08 0d 8c 4d f7 9b b6 13>,
+    fileLength: Long { low: 52574, high: 0, unsigned: true },
+    height: 640,
+    width: 640,
+    mediaKey: <Buffer 5d d7 4c 98 58 37 68 92 25 2a b9 8e 20 3e 84 72 52 bd 9e 67 cf cc 4f a3 66 f5 d4 f4 5b a5 7d 83>,
+    fileEncSha256: <Buffer 8c 6d 1d 9b 21 af 83 b0 7e 2c d6 2b c7 b5 28 a9 27 21 6c 8a 72 90 01 ef e3 54 04 49 08 ff fc 1e>,
+    directPath: '/v/t62.7118-24/29736832_400363101029313_5272545857689664207_n.enc?oh=96c3b93a8e40f96c93dde6f75bae34ea&oe=602E638E',
+    mediaKeyTimestamp: Long { low: 1610856791, high: 0, unsigned: false },
+    jpegThumbnail: <Buffer ff d8 ff e0 00 10 4a 46 49 46 00 01 01 00 00 01 00 01 00 00 ff db 00 84 00 1b 1b 1b 1b 1c 1b 1e 21 21 1e 2a 2d 28 2d 2a 3d 38 33 33 38 3d 5d 42 47 42 ... 784 more bytes>
+  },
+  productId: '3770859462936213',
+  title: 'tee',
+  currencyCode: 'IDR',
+  priceAmount1000: Long { low: 13333000, high: 0, unsigned: false },
+  productImageCount: 1
+}
